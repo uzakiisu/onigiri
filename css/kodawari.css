@@ -1,0 +1,18 @@
+.main{
+	margin-top:100px;
+	margin-bottom:100px;
+}
+
+h3{
+border-radius:30px;
+text-align:center;
+background-color:#ffcc00;
+}
+
+.guzai li{
+	list-style:none;
+}
+.comment{
+	background-color:#ffefcf;
+	padding:10px 5px;
+}
